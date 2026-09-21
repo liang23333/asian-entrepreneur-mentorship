@@ -1,0 +1,104 @@
+{
+  "name": "asian_entrepreneur_mentorship_tm",
+  "source_language": "en",
+  "target_languages": ["zh", "hi"],
+  "description": "Standardized Translation Memory and Glossary for Asian Entrepreneurship Mentorship Resources",
+  "terms": [
+    {
+      "term_id": "TM-001",
+      "category": "Framework",
+      "source_en": "GROW Mentorship Framework",
+      "target_zh": "GROW 导师指导框架",
+      "target_hi": "GROW मेंटरशिप फ्रेमवर्क",
+      "notes": "Coaching model: Goal, Reality, Options, Will"
+    },
+    {
+      "term_id": "TM-002",
+      "category": "Framework Component",
+      "source_en": "Goal (G) – Defining the Destination",
+      "target_zh": "目标 (Goal, G) – 确立终点与愿景",
+      "target_hi": "लक्ष्य (Goal - G) – मंजिल का निर्धारण",
+      "notes": "First stage of GROW"
+    },
+    {
+      "term_id": "TM-003",
+      "category": "Framework Component",
+      "source_en": "Reality (R) – Assessing Current Ground Truth",
+      "target_zh": "现状 (Reality, R) – 评估当下的客观事实",
+      "target_hi": "वास्तविकता (Reality - R) – वर्तमान स्थिति का वस्तुनिष्ठ मूल्यांकन",
+      "notes": "Second stage of GROW"
+    },
+    {
+      "term_id": "TM-004",
+      "category": "Framework Component",
+      "source_en": "Options (O) – Exploring Possibilities & Pathways",
+      "target_zh": "选择 (Options, O) – 拓展路径与多元可能",
+      "target_hi": "विकल्प (Options - O) – संभावनाओं और नए रास्तों की खोज",
+      "notes": "Third stage of GROW"
+    },
+    {
+      "term_id": "TM-005",
+      "category": "Framework Component",
+      "source_en": "Will / Way Forward (W) – Committing to Action",
+      "target_zh": "意愿 / 行动方案 (Will / Way Forward, W) – 落实承诺与推进",
+      "target_hi": "इच्छाशक्ति / आगे की राह (Will / Way Forward - W) – कार्रवाई की प्रतिबद्धता",
+      "notes": "Fourth stage of GROW"
+    },
+    {
+      "term_id": "TM-006",
+      "category": "Startup Metrics",
+      "source_en": "Cash Runway",
+      "target_zh": "现金流跑道",
+      "target_hi": "कैश रनवे",
+      "notes": "Months of operating cash available"
+    },
+    {
+      "term_id": "TM-007",
+      "category": "Startup Metrics",
+      "source_en": "Customer Churn",
+      "target_zh": "客户流失率",
+      "target_hi": "ग्राहक पलायन दर",
+      "notes": "Rate at which customers stop subscribing"
+    },
+    {
+      "term_id": "TM-008",
+      "category": "Startup Strategy",
+      "source_en": "Pivot",
+      "target_zh": "业务转型 (Pivot)",
+      "target_hi": "दिशा परिवर्तन (Pivot)",
+      "notes": "Shifting business model while maintaining vision"
+    },
+    {
+      "term_id": "TM-009",
+      "category": "Cultural Nuance",
+      "source_en": "Fear of losing face",
+      "target_zh": "对“丢面子”的恐惧",
+      "target_hi": "'प्रतिष्ठा खोने' का भय",
+      "notes": "Critical cultural barrier in East and South Asian entrepreneurship"
+    },
+    {
+      "term_id": "TM-010",
+      "category": "Cultural Nuance",
+      "source_en": "De-stigmatizing Failure",
+      "target_zh": "消除对失败的耻感",
+      "target_hi": "विफलता के कलंक को दूर करना",
+      "notes": "Reframing failure into experimentation"
+    },
+    {
+      "term_id": "TM-011",
+      "category": "Cultural Nuance",
+      "source_en": "Parental and Generational Expectations",
+      "target_zh": "长辈与代际期望",
+      "target_hi": "पारिवारिक और पीढ़ीगत अपेक्षाएं",
+      "notes": "Familial career pressures"
+    },
+    {
+      "term_id": "TM-012",
+      "category": "Mentorship Process",
+      "source_en": "Commitment Score",
+      "target_zh": "承诺度评分",
+      "target_hi": "प्रतिबद्धता स्कोर",
+      "notes": "1 to 10 scale of execution readiness"
+    }
+  ]
+}

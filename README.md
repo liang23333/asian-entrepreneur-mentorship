@@ -1,20 +1,16 @@
 # Asian Entrepreneur Mentorship Resources
 
-Welcome to the **Asian Entrepreneur Mentorship** repository. This resource hub is created specifically for young Asian founders, startup builders, and mentors who are navigating non-traditional career paths, defying conventional expectations, and building resilient, high-impact enterprises.
+A curated open-source repository designed to support mentors and young Asian founders navigating non-traditional career paths and building scalable ventures.
 
----
+## Contents
 
-## 📚 Repository Contents
-
-1. **[GROW Mentorship Framework Guide (`GROW_MENTORSHIP_GUIDE.md`)](./GROW_MENTORSHIP_GUIDE.md)**
-   - An in-depth, actionable guide adapting the world-renowned **GROW** (Goal, Reality, Options, Will) coaching model to the unique cultural and entrepreneurial realities of young Asian founders.
-   - Includes conversational stages, diagnostic questions, psychological safety strategies, and a practical mentor-mentee action matrix.
-
-2. **[Entrepreneur Story: Nikhil Kamath (`ENTREPRENEUR_STORY.md`)](./ENTREPRENEUR_STORY.md)**
-   - The inspiring journey of **Nikhil Kamath**, who dropped out of school at age 14, worked night shifts in a call center, and went on to co-found **Zerodha**—India's largest retail stockbroker, built completely bootstrapped without external venture capital.
-   - Key lessons on non-conformity, domain mastery over credentials, bootstrapping discipline, and giving back through youth entrepreneur initiatives like the **WTFund**.
-
----
-
-## 🌐 Multilingual Accessibility
-To ensure these resources are accessible across Asia's diverse entrepreneurial ecosystem, the core framework is also translated and supported with dedicated Translation Memory tooling for continuous consistency across Mandarin Chinese and Hindi.
+- **Mentorship Framework**: [`mentorship-framework-guide.md`](./mentorship-framework-guide.md)
+  - Detailed operational guide to applying the **GROW Coaching Model** (Goal, Reality, Options, Will) tailored for Asian entrepreneurial dynamics.
+- **Entrepreneur Case Study**: [`entrepreneur-story-summary.md`](./entrepreneur-story-summary.md)
+  - Case study of **Payal Kadakia** (Founder of ClassPass) transitioning from classical Indian dance and Bain consulting to founding a $1B+ fitness unicorn.
+- **Multilingual Guides**:
+  - Mandarin (Simplified): [`translations/mentorship-framework-guide.zh.md`](./translations/mentorship-framework-guide.zh.md)
+  - Hindi: [`translations/mentorship-framework-guide.hi.md`](./translations/mentorship-framework-guide.hi.md)
+- **Translation Memory & Glossaries**:
+  - Industry-standard TMX format: [`translation-memory/mentorship-memory.tmx`](./translation-memory/mentorship-memory.tmx)
+  - Machine-readable JSON glossary: [`translation-memory/mentorship-glossary.json`](./translation-memory/mentorship-glossary.json)

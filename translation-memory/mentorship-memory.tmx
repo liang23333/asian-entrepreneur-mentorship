@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx version="1.4">
+  <header
+    creationtool="MentorshipResourceTM"
+    creationtoolversion="1.0"
+    datatype="PlainText"
+    segtype="phrase"
+    adminlang="en"
+    srclang="en"
+    o-tmf="ATM"
+    creationdate="20260921T133000Z">
+  </header>
+  <body>
+    <tu tuid="tm-001">
+      <prop type="domain">Mentorship Framework</prop>
+      <tuv xml:lang="en"><seg>GROW Mentorship Framework</seg></tuv>
+      <tuv xml:lang="zh"><seg>GROW 导师指导框架</seg></tuv>
+      <tuv xml:lang="hi"><seg>GROW मेंटरशिप फ्रेमवर्क</seg></tuv>
+    </tu>
+    <tu tuid="tm-002">
+      <prop type="domain">Mentorship Framework</prop>
+      <tuv xml:lang="en"><seg>Goal (G) – Defining the Destination</seg></tuv>
+      <tuv xml:lang="zh"><seg>目标 (Goal, G) – 确立终点与愿景</seg></tuv>
+      <tuv xml:lang="hi"><seg>लक्ष्य (Goal - G) – मंजिल का निर्धारण</seg></tuv>
+    </tu>
+    <tu tuid="tm-003">
+      <prop type="domain">Mentorship Framework</prop>
+      <tuv xml:lang="en"><seg>Reality (R) – Assessing Current Ground Truth</seg></tuv>
+      <tuv xml:lang="zh"><seg>现状 (Reality, R) – 评估当下的客观事实</seg></tuv>
+      <tuv xml:lang="hi"><seg>वास्तविकता (Reality - R) – वर्तमान स्थिति का वस्तुनिष्ठ मूल्यांकन</seg></tuv>
+    </tu>
+    <tu tuid="tm-004">
+      <prop type="domain">Mentorship Framework</prop>
+      <tuv xml:lang="en"><seg>Options (O) – Exploring Possibilities &amp; Pathways</seg></tuv>
+      <tuv xml:lang="zh"><seg>选择 (Options, O) – 拓展路径与多元可能</seg></tuv>
+      <tuv xml:lang="hi"><seg>विकल्प (Options - O) – संभावनाओं और नए रास्तों की खोज</seg></tuv>
+    </tu>
+    <tu tuid="tm-005">
+      <prop type="domain">Mentorship Framework</prop>
+      <tuv xml:lang="en"><seg>Will / Way Forward (W) – Committing to Action</seg></tuv>
+      <tuv xml:lang="zh"><seg>意愿 / 行动方案 (Will / Way Forward, W) – 落实承诺与推进</seg></tuv>
+      <tuv xml:lang="hi"><seg>इच्छाशक्ति / आगे की राह (Will / Way Forward - W) – कार्रवाई की प्रतिबद्धता</seg></tuv>
+    </tu>
+    <tu tuid="tm-006">
+      <prop type="domain">Startup Metrics</prop>
+      <tuv xml:lang="en"><seg>Cash Runway</seg></tuv>
+      <tuv xml:lang="zh"><seg>现金流跑道</seg></tuv>
+      <tuv xml:lang="hi"><seg>कैश रनवे</seg></tuv>
+    </tu>
+    <tu tuid="tm-007">
+      <prop type="domain">Startup Metrics</prop>
+      <tuv xml:lang="en"><seg>Customer Churn</seg></tuv>
+      <tuv xml:lang="zh"><seg>客户流失率</seg></tuv>
+      <tuv xml:lang="hi"><seg>ग्राहक पलायन दर</seg></tuv>
+    </tu>
+    <tu tuid="tm-008">
+      <prop type="domain">Startup Strategy</prop>
+      <tuv xml:lang="en"><seg>Pivot</seg></tuv>
+      <tuv xml:lang="zh"><seg>业务转型 (Pivot)</seg></tuv>
+      <tuv xml:lang="hi"><seg>दिशा परिवर्तन (Pivot)</seg></tuv>
+    </tu>
+    <tu tuid="tm-009">
+      <prop type="domain">Cultural Nuance</prop>
+      <tuv xml:lang="en"><seg>Fear of losing face</seg></tuv>
+      <tuv xml:lang="zh"><seg>对“丢面子”的恐惧</seg></tuv>
+      <tuv xml:lang="hi"><seg>'प्रतिष्ठा खोने' का भय</seg></tuv>
+    </tu>
+    <tu tuid="tm-010">
+      <prop type="domain">Cultural Nuance</prop>
+      <tuv xml:lang="en"><seg>De-stigmatizing Failure</seg></tuv>
+      <tuv xml:lang="zh"><seg>消除对失败的耻感</seg></tuv>
+      <tuv xml:lang="hi"><seg>विफलता के कलंक को दूर करना</seg></tuv>
+    </tu>
+    <tu tuid="tm-011">
+      <prop type="domain">Cultural Nuance</prop>
+      <tuv xml:lang="en"><seg>Parental and Generational Expectations</seg></tuv>
+      <tuv xml:lang="zh"><seg>长辈与代际期望</seg></tuv>
+      <tuv xml:lang="hi"><seg>पारिवारिक और पीढ़ीगत अपेक्षाएं</seg></tuv>
+    </tu>
+    <tu tuid="tm-012">
+      <prop type="domain">Mentorship Process</prop>
+      <tuv xml:lang="en"><seg>Commitment Score</seg></tuv>
+      <tuv xml:lang="zh"><seg>承诺度评分</seg></tuv>
+      <tuv xml:lang="hi"><seg>प्रतिबद्धता स्कोर</seg></tuv>
+    </tu>
+  </body>
+</tmx>
